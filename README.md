@@ -1,4 +1,4 @@
-# BookSense: Semantic Book Recommender with LLMs
+# BookSense: A Semantic Book Recommender with LLMs
 A robust book recommendation system that leverages advanced natural language processing (NLP) techniques—including vector embeddings, zero-shot text classification, and sentiment analysis—to semantically search a curated books dataset and deliver personalized recommendations via an interactive Gradio dashboard.
 
 
@@ -24,7 +24,7 @@ The Semantic Book Recommender project demonstrates an end-to-end application for
 
 
 ## Live Demo
-Check out the live application: [BookSense]()
+Check out the live application: [BookSense](https://huggingface.co/spaces/absara1am/BookSense)
 
 
 ## Project Snapshot
@@ -82,9 +82,9 @@ This project was initially created in Python 3.12.8 In order to run the project,
 * [notebook](https://pypi.org/project/notebook/)
 * [ipywidgets](https://pypi.org/project/ipywidgets/)
 
-A requirements.txt file containing all the project dependencies is provided as part of this repo.
-In order to create your vector database, you'll need to create a .env file in your root directory containing your Hugging Face API key.
-The data for this project can be downloaded from Kaggle.
+- A requirements.txt file containing all the project dependencies is provided as part of this repo.
+- In order to create your vector database, you'll need to create a .env file in your root directory containing your Hugging Face API key.
+- The data for this project can be downloaded from Kaggle.
 
 
 ## Contributing
